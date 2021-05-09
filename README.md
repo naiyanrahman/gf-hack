@@ -4,7 +4,7 @@
 
 # pkg install git -y
 
-# git clone https://github.com/THEDVIRUSOFFICIAL/gf-hack
+# git clone https://github.com/naiyan-official/gf-hack
 
 # pkg install python -y
 
